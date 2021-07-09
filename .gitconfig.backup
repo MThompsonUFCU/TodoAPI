@@ -1,0 +1,8 @@
+[core]
+	editor = \"C:/Program Files (x86)/GitExtensions/GitExtensions.exe\" fileeditor
+[pull]
+	rebase = false
+[fetch]
+	prune = false
+[rebase]
+	autoStash = false
